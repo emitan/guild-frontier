@@ -1,7 +1,7 @@
 # Guild Frontier 
-* *Genre:* “Visual Novel RPG” “Simulation RPG ?”
-* *Platform:* Renpy ?
-* *Premise:* You have started a warriors/monster hunting guild and now need to manage it, manage its growth , guide it in any direction you see fit, be it becoming the richest, the mightiest, cutest, most popular, whatever guild out there. 
+* **Genre:** “Visual Novel RPG” “Simulation RPG ?”
+* **Platform:** Renpy ?
+* **Premise:** You have started a warriors/monster hunting guild and now need to manage it, manage its growth , guide it in any direction you see fit, be it becoming the richest, the mightiest, cutest, most popular, whatever guild out there. 
 
 ## Current Ideas: 
 
